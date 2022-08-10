@@ -10,6 +10,7 @@
     "ecmaVersion": "latest"
   },
   "rules": {
+    "camelcase": "off",
     "quotes": [
       2,
       "double",
